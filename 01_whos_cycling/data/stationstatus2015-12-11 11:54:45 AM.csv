@@ -1,0 +1,512 @@
+"city","latitude","stAddress1","stationName","landMark","lastCommunicationTime","id","availableDocks","totalDocks","altitude","stAddress2","longitude","statusValue","testStation","location","postalCode","statusKey","availableBikes"
+"",40.76727216,"W 52 St & 11 Ave","W 52 St & 11 Ave","","2015-12-11 11:51:18 AM",72,33,39,"","",-73.99392888,"In Service",False,"","",1,5
+"",40.71911552,"Franklin St & W Broadway","Franklin St & W Broadway","","2015-12-11 11:53:53 AM",79,3,33,"","",-74.00666661,"In Service",False,"","",1,27
+"",40.71117416,"St James Pl & Pearl St","St James Pl & Pearl St","","2015-12-11 11:54:07 AM",82,21,27,"","",-74.00016545,"In Service",False,"","",1,5
+"",40.68382604,"Atlantic Ave & Fort Greene Pl","Atlantic Ave & Fort Greene Pl","","2015-12-11 11:51:32 AM",83,38,62,"","",-73.97632328,"In Service",False,"","",1,24
+"",40.74177603,"W 17 St & 8 Ave","W 17 St & 8 Ave","","2015-12-11 11:54:11 AM",116,17,39,"","",-74.00149746,"In Service",False,"","",1,17
+"",40.69608941,"Park Ave & St Edwards St","Park Ave & St Edwards St","","2015-12-11 11:54:40 AM",119,14,19,"","",-73.97803415,"In Service",False,"","",1,5
+"",40.68676793,"Lexington Ave & Classon Ave","Lexington Ave & Classon Ave","","2015-12-11 11:50:47 AM",120,17,19,"","",-73.95928168,"In Service",False,"","",1,1
+"",40.73172428,"Barrow St & Hudson St","Barrow St & Hudson St","","2015-12-11 11:53:48 AM",127,21,31,"","",-74.00674436,"In Service",False,"","",1,10
+"",40.72710258,"MacDougal St & Prince St","MacDougal St & Prince St","","2015-12-11 11:54:13 AM",128,1,30,"","",-74.00297088,"In Service",False,"","",1,27
+"",40.761628,"E 56 St & Madison Ave","E 56 St & Madison Ave","","2015-12-11 11:53:08 AM",137,5,46,"","",-73.972924,"In Service",False,"","",1,41
+"",40.69239502,"Clinton St & Joralemon St","Clinton St & Joralemon St","","2015-12-11 11:51:53 AM",143,21,24,"","",-73.99337909,"In Service",False,"","",1,2
+"",40.69839895,"Nassau St & Navy St","Nassau St & Navy St","","2015-12-11 11:50:54 AM",144,16,19,"","",-73.98068914,"In Service",False,"","",1,3
+"",40.71625008,"Hudson St & Reade St","Hudson St & Reade St","","2015-12-11 11:54:35 AM",146,16,39,"","",-74.0091059,"In Service",False,"","",1,22
+"",40.71542197,"Greenwich St & Warren St","Greenwich St & Warren St","","2015-12-11 11:54:40 AM",147,21,33,"","",-74.01121978,"In Service",False,"","",1,12
+"",40.7208736,"E 2 St & Avenue C","E 2 St & Avenue C","","2015-12-11 11:52:25 AM",150,30,31,"","",-73.98085795,"In Service",False,"","",1,0
+"",40.722103786686,"Cleveland Pl & Spring St","Cleveland Pl & Spring St","","2015-12-11 11:54:40 AM",151,15,33,"","",-73.997249007225,"In Service",False,"","",1,17
+"",40.71473993,"Warren St & Church St","Warren St & Church St","","2015-12-11 11:53:33 AM",152,10,29,"","",-74.00910627,"In Service",False,"","",1,19
+"",40.752062307,"E 40 St & 5 Ave","E 40 St & 5 Ave","","1969-12-31 07:00:00 PM",153,1,3,"","",-73.9816324043,"Not In Service",False,"","",3,0
+"",40.69089272,"Henry St & Atlantic Ave","Henry St & Atlantic Ave","","2015-12-11 11:52:59 AM",157,21,23,"","",-73.99612349,"In Service",False,"","",1,1
+"",40.748238,"E 37 St & Lexington Ave","E 37 St & Lexington Ave","","2015-12-11 11:51:46 AM",160,25,26,"","",-73.978311,"In Service",False,"","",1,0
+"",40.72917025,"LaGuardia Pl & W 3 St","LaGuardia Pl & W 3 St","","2015-12-11 11:51:26 AM",161,12,35,"","",-73.99810231,"In Service",False,"","",1,21
+"",40.75323098,"E 47 St & 2 Ave","E 47 St & 2 Ave","","2015-12-11 11:53:50 AM",164,8,47,"","",-73.97032517,"In Service",False,"","",1,39
+"",40.7489006,"E 39 St & 3 Ave","E 39 St & 3 Ave","","2015-12-11 11:53:58 AM",167,25,45,"","",-73.97604882,"In Service",False,"","",1,19
+"",40.73971301,"W 18 St & 6 Ave","W 18 St & 6 Ave","","2015-12-11 11:53:13 AM",168,6,47,"","",-73.99456405,"In Service",False,"","",1,39
+"",40.76064679,"Broadway & W 49 St","Broadway & W 49 St","","2015-12-11 11:53:32 AM",173,2,51,"","",-73.98442659,"In Service",False,"","",1,47
+"",40.7381765,"E 25 St & 1 Ave","E 25 St & 1 Ave","","2015-12-11 11:53:30 AM",174,30,30,"","",-73.97738662,"In Service",False,"","",1,0
+"",40.70905623,"Liberty St & Broadway","Liberty St & Broadway","","2015-12-11 11:53:06 AM",195,6,45,"","",-74.01043382,"In Service",False,"","",1,37
+"",40.74334935,"W 16 St & The High Line","W 16 St & The High Line","","2015-12-11 11:54:22 AM",212,0,28,"","",-74.00681753,"In Service",False,"","",1,26
+"",40.70037867,"Columbia Heights & Cranberry St","Columbia Heights & Cranberry St","","2015-12-11 11:54:43 AM",216,18,23,"","",-73.99548059,"In Service",False,"","",1,5
+"",40.70277159,"Old Fulton St","Old Fulton St","","2015-12-11 11:52:27 AM",217,37,39,"","",-73.99383605,"In Service",False,"","",1,1
+"",40.69028437,"Gallatin Pl & Livingston St","Gallatin Pl & Livingston St","","2015-12-11 11:54:30 AM",218,22,39,"","",-73.98707105,"In Service",False,"","",1,17
+"",40.73781509,"W 13 St & 7 Ave","W 13 St & 7 Ave","","2015-12-11 11:54:12 AM",223,11,33,"","",-73.99994661,"In Service",False,"","",1,21
+"",40.71146364,"Spruce St & Nassau St","Spruce St & Nassau St","","2015-12-11 11:52:51 AM",224,1,31,"","",-74.00552427,"In Service",False,"","",1,29
+"",40.74195138,"W 14 St & The High Line","W 14 St & The High Line","","2015-12-11 11:53:08 AM",225,1,37,"","",-74.00803013,"In Service",False,"","",1,35
+"",40.7546011026,"E 48 St & 3 Ave","E 48 St & 3 Ave","","2015-12-11 11:53:48 AM",228,0,55,"","",-73.971878855,"In Service",False,"","",1,55
+"",40.72743423,"Great Jones St","Great Jones St","","2015-12-11 11:52:59 AM",229,3,23,"","",-73.99379025,"In Service",False,"","",1,18
+"",40.69597683,"Cadman Plaza E & Tillary St","Cadman Plaza E & Tillary St","","2015-12-11 11:50:48 AM",232,17,23,"","",-73.99014892,"In Service",False,"","",1,5
+"",40.694757013639,"Cadman Plaza W & Pierrepont St","Cadman Plaza W & Pierrepont St","","2015-12-11 11:52:43 AM",233,36,38,"","",-73.990527391434,"In Service",False,"","",1,2
+"",40.7284186,"St Marks Pl & 2 Ave","St Marks Pl & 2 Ave","","2015-12-11 11:53:53 AM",236,36,39,"","",-73.98713956,"In Service",False,"","",1,3
+"",40.73047309,"E 11 St & 2 Ave","E 11 St & 2 Ave","","2015-12-11 11:54:41 AM",237,37,39,"","",-73.98672378,"In Service",False,"","",1,1
+"",40.7361967,"Bank St & Washington St","Bank St & Washington St","","2015-12-11 11:54:03 AM",238,31,31,"","",-74.00859207,"In Service",False,"","",1,0
+"",40.69196566,"Willoughby St & Fleet St","Willoughby St & Fleet St","","2015-12-11 11:54:00 AM",239,11,31,"","",-73.9813018,"In Service",False,"","",1,20
+"",40.68981035,"DeKalb Ave & S Portland Ave","DeKalb Ave & S Portland Ave","","2015-12-11 11:50:55 AM",241,23,23,"","",-73.97493121,"In Service",False,"","",1,0
+"",40.697787,"Carlton Ave & Flushing Ave","Carlton Ave & Flushing Ave","","2015-12-11 11:54:31 AM",242,7,23,"","",-73.973736,"In Service",False,"","",1,13
+"",40.688226,"Fulton St & Rockwell Pl","Fulton St & Rockwell Pl","","2015-12-11 11:51:03 AM",243,12,31,"","",-73.979382,"In Service",False,"","",1,19
+"",40.69196035,"Willoughby Ave & Hall St","Willoughby Ave & Hall St","","2015-12-11 11:51:44 AM",244,30,31,"","",-73.96536851,"In Service",False,"","",1,0
+"",40.69327018,"Myrtle Ave & St Edwards St","Myrtle Ave & St Edwards St","","2015-12-11 11:51:59 AM",245,23,23,"","",-73.97703874,"In Service",False,"","",1,0
+"",40.73535398,"Perry St & Bleecker St","Perry St & Bleecker St","","2015-12-11 11:53:02 AM",247,20,20,"","",-74.00483091,"In Service",False,"","",1,0
+"",40.72185379,"Laight St & Hudson St","Laight St & Hudson St","","2015-12-11 11:51:58 AM",248,1,23,"","",-74.00771779,"In Service",False,"","",1,22
+"",40.71870987,"Harrison St & Hudson St","Harrison St & Hudson St","","2015-12-11 11:51:50 AM",249,0,27,"","",-74.0090009,"In Service",False,"","",1,27
+"",40.72456089,"Lafayette St & Jersey St","Lafayette St & Jersey St","","2015-12-11 11:52:01 AM",250,4,40,"","",-73.99565293,"In Service",False,"","",1,31
+"",40.72317958,"Mott St & Prince St","Mott St & Prince St","","2015-12-11 11:51:50 AM",251,3,27,"","",-73.99480012,"In Service",False,"","",1,24
+"",40.73226398,"MacDougal St & Washington Sq","MacDougal St & Washington Sq","","2015-12-11 11:53:04 AM",252,22,33,"","",-73.99852205,"In Service",False,"","",1,10
+"",40.73543934,"W 13 St & 5 Ave","W 13 St & 5 Ave","","2015-12-11 11:54:30 AM",253,19,55,"","",-73.99453948,"In Service",False,"","",1,33
+"",40.73532427,"W 11 St & 6 Ave","W 11 St & 6 Ave","","2015-12-11 11:54:19 AM",254,28,31,"","",-73.99800419,"In Service",False,"","",1,3
+"",40.71939226,"Lispenard St & Broadway","Lispenard St & Broadway","","2015-12-11 11:51:01 AM",257,3,39,"","",-74.00247214,"In Service",False,"","",1,33
+"",40.68940747,"DeKalb Ave & Vanderbilt Ave","DeKalb Ave & Vanderbilt Ave","","2015-12-11 11:50:53 AM",258,20,23,"","",-73.96885458,"In Service",False,"","",1,1
+"",40.70122128,"South St & Whitehall St","South St & Whitehall St","","2015-12-11 11:52:15 AM",259,3,39,"","",-74.01234218,"In Service",False,"","",1,36
+"",40.70365182,"Broad St & Bridge St","Broad St & Bridge St","","2015-12-11 11:51:42 AM",260,0,35,"","",-74.01167797,"In Service",False,"","",1,35
+"",40.69474881,"Johnson St & Gold St","Johnson St & Gold St","","2015-12-11 11:54:28 AM",261,20,27,"","",-73.98362464,"In Service",False,"","",1,6
+"",40.6917823,"Washington Park","Washington Park","","2015-12-11 11:54:19 AM",262,24,24,"","",-73.9737299,"In Service",False,"","",1,0
+"",40.71729,"Elizabeth St & Hester St","Elizabeth St & Hester St","","2015-12-11 11:54:34 AM",263,29,31,"","",-73.996375,"In Service",False,"","",1,2
+"",40.70706456,"Maiden Ln & Pearl St","Maiden Ln & Pearl St","","2015-12-11 11:53:31 AM",264,1,27,"","",-74.00731853,"In Service",False,"","",1,26
+"",40.72229346,"Stanton St & Chrystie St","Stanton St & Chrystie St","","2015-12-11 11:53:50 AM",265,32,35,"","",-73.99147535,"In Service",False,"","",1,0
+"",40.72368361,"Avenue D & E 8 St","Avenue D & E 8 St","","2015-12-11 11:54:05 AM",266,24,24,"","",-73.97574813,"In Service",False,"","",1,0
+"",40.75097711,"Broadway & W 36 St","Broadway & W 36 St","","2015-12-11 11:54:30 AM",267,51,57,"","",-73.98765428,"In Service",False,"","",1,5
+"",40.71910537,"Howard St & Centre St","Howard St & Centre St","","2015-12-11 11:52:42 AM",268,0,27,"","",-73.99973337,"In Service",False,"","",1,27
+"",40.69308257,"Adelphi St & Myrtle Ave","Adelphi St & Myrtle Ave","","2015-12-11 11:54:20 AM",270,21,23,"","",-73.97178913,"In Service",False,"","",1,1
+"",40.68691865,"Lafayette Ave & Fort Greene Pl","Lafayette Ave & Fort Greene Pl","","2015-12-11 11:53:48 AM",274,18,31,"","",-73.976682,"In Service",False,"","",1,12
+"",40.68650065,"Washington Ave & Greene Ave","Washington Ave & Greene Ave","","2015-12-11 11:52:45 AM",275,19,19,"","",-73.96563307,"In Service",False,"","",1,0
+"",40.71748752,"Duane St & Greenwich St","Duane St & Greenwich St","","2015-12-11 11:52:26 AM",276,9,25,"","",-74.0104554,"In Service",False,"","",1,16
+"",40.69766564,"Concord St & Bridge St","Concord St & Bridge St","","2015-12-11 11:51:04 AM",278,19,19,"","",-73.98476437,"In Service",False,"","",1,0
+"",40.707873,"Peck Slip & Front St","Peck Slip & Front St","","2015-12-11 11:52:32 AM",279,13,36,"","",-74.00167,"In Service",False,"","",1,22
+"",40.73331967,"E 10 St & 5 Ave","E 10 St & 5 Ave","","2015-12-11 11:53:16 AM",280,4,31,"","",-73.99510132,"In Service",False,"","",1,26
+"",40.7643971,"Grand Army Plaza & Central Park S","Grand Army Plaza & Central Park S","","2015-12-11 11:51:43 AM",281,0,59,"","",-73.97371465,"In Service",False,"","",1,57
+"",40.70827295,"Kent Ave & S 11 St","Kent Ave & S 11 St","","2015-12-11 11:53:09 AM",282,14,27,"","",-73.96834101,"In Service",False,"","",1,13
+"",40.7390169121,"Greenwich Ave & 8 Ave","Greenwich Ave & 8 Ave","","2015-12-11 11:53:22 AM",284,28,43,"","",-74.0026376103,"In Service",False,"","",1,12
+"",40.73454567,"Broadway & E 14 St","Broadway & E 14 St","","2015-12-11 11:53:12 AM",285,21,47,"","",-73.99074142,"In Service",False,"","",1,21
+"",40.6845683,"Monroe St & Classon Ave","Monroe St & Classon Ave","","2015-12-11 11:51:24 AM",289,18,19,"","",-73.95881081,"In Service",False,"","",1,1
+"",40.76020258,"2 Ave & E 58 St","2 Ave & E 58 St","","2015-11-09 10:53:19 AM",290,0,5,"","",-73.96478473,"Not In Service",False,"","",3,0
+"",40.713126,"Madison St & Montgomery St","Madison St & Montgomery St","","2015-12-11 11:53:02 AM",291,16,20,"","",-73.984844,"In Service",False,"","",1,3
+"",40.73028666,"Lafayette St & E 8 St","Lafayette St & E 8 St","","2015-12-11 11:54:44 AM",293,9,55,"","",-73.9907647,"In Service",False,"","",1,44
+"",40.73049393,"Washington Square E","Washington Square E","","2015-11-08 05:23:28 PM",294,3,3,"","",-73.9957214,"Not In Service",False,"","",3,0
+"",40.71406667,"Pike St & E Broadway","Pike St & E Broadway","","2015-12-11 11:51:57 AM",295,23,24,"","",-73.99293911,"In Service",False,"","",1,0
+"",40.71413089,"Division St & Bowery","Division St & Bowery","","2015-12-11 11:53:10 AM",296,25,35,"","",-73.9970468,"In Service",False,"","",1,8
+"",40.734232,"E 15 St & 3 Ave","E 15 St & 3 Ave","","2015-12-11 11:52:01 AM",297,26,27,"","",-73.986923,"In Service",False,"","",1,0
+"",40.68683208,"3 Ave & Schermerhorn St","3 Ave & Schermerhorn St","","2015-12-11 11:53:55 AM",298,23,35,"","",-73.9796772,"In Service",False,"","",1,11
+"",40.728145,"Shevchenko Pl & E 7 St","Shevchenko Pl & E 7 St","","2015-12-11 11:54:30 AM",300,26,55,"","",-73.990214,"In Service",False,"","",1,28
+"",40.72217444,"E 2 St & Avenue B","E 2 St & Avenue B","","2015-12-11 11:53:39 AM",301,36,37,"","",-73.98368779,"In Service",False,"","",1,0
+"",40.72082834,"Avenue D & E 3 St","Avenue D & E 3 St","","2015-12-11 11:54:24 AM",302,23,23,"","",-73.97793172,"In Service",False,"","",1,0
+"",40.72362738,"Mercer St & Spring St","Mercer St & Spring St","","2015-12-11 11:52:37 AM",303,5,31,"","",-73.99949601,"In Service",False,"","",1,25
+"",40.70463334,"Broadway & Battery Pl","Broadway & Battery Pl","","2015-12-11 11:54:27 AM",304,2,36,"","",-74.01361706,"In Service",False,"","",1,33
+"",40.76095756,"E 58 St & 3 Ave","E 58 St & 3 Ave","","2015-12-11 11:52:09 AM",305,5,33,"","",-73.96724467,"In Service",False,"","",1,27
+"",40.70823502,"Cliff St & Fulton St","Cliff St & Fulton St","","2015-12-11 11:52:30 AM",306,23,37,"","",-74.00530063,"In Service",False,"","",1,14
+"",40.71427487,"Canal St & Rutgers St","Canal St & Rutgers St","","2015-12-11 11:54:10 AM",307,23,29,"","",-73.98990025,"In Service",False,"","",1,6
+"",40.71307916,"St James Pl & Oliver St","St James Pl & Oliver St","","2015-12-11 11:54:06 AM",308,22,27,"","",-73.99851193,"In Service",False,"","",1,5
+"",40.7149787,"Murray St & West St","Murray St & West St","","2015-12-11 11:54:21 AM",309,1,41,"","",-74.013012,"In Service",False,"","",1,39
+"",40.68926942,"State St & Smith St","State St & Smith St","","2015-12-11 11:52:09 AM",310,14,36,"","",-73.98912867,"In Service",False,"","",1,20
+"",40.7172274,"Norfolk St & Broome St","Norfolk St & Broome St","","2015-12-11 11:51:20 AM",311,30,31,"","",-73.98802084,"In Service",False,"","",1,0
+"",40.722055,"Allen St & E Houston St","Allen St & E Houston St","","2015-12-11 11:53:46 AM",312,24,31,"","",-73.989111,"In Service",False,"","",1,5
+"",40.69610226,"Washington Ave & Park Ave","Washington Ave & Park Ave","","2015-12-11 11:53:06 AM",313,18,23,"","",-73.96751037,"In Service",False,"","",1,3
+"",40.69383,"Cadman Plaza West & Montague St","Cadman Plaza West & Montague St","","2015-12-11 11:53:55 AM",314,26,39,"","",-73.990539,"In Service",False,"","",1,12
+"",40.70355377,"South St & Gouverneur Ln","South St & Gouverneur Ln","","2015-12-11 11:53:12 AM",315,1,29,"","",-74.00670227,"In Service",False,"","",1,27
+"",40.70955958,"Fulton St & William St","Fulton St & William St","","2015-12-11 11:53:32 AM",316,16,43,"","",-74.00653609,"In Service",False,"","",1,26
+"",40.72453734,"E 6 St & Avenue B","E 6 St & Avenue B","","2015-12-11 11:54:06 AM",317,26,27,"","",-73.98185424,"In Service",False,"","",1,1
+"",40.711066,"Fulton St & Broadway","Fulton St & Broadway","","2015-12-11 11:51:43 AM",319,17,33,"","",-74.009447,"In Service",False,"","",1,15
+"",40.717571,"Leonard St & Church St","Leonard St & Church St","","2015-12-11 11:53:42 AM",320,4,39,"","",-74.005549,"In Service",False,"","",1,33
+"",40.69991755,"Cadman Plaza E & Red Cross Pl","Cadman Plaza E & Red Cross Pl","","2015-12-11 11:54:35 AM",321,0,27,"","",-73.98971773,"In Service",False,"","",1,26
+"",40.696192,"Clinton St & Tillary St","Clinton St & Tillary St","","2015-12-11 11:54:07 AM",322,29,31,"","",-73.991218,"In Service",False,"","",1,2
+"",40.69236178,"Lawrence St & Willoughby St","Lawrence St & Willoughby St","","2015-12-11 11:52:40 AM",323,16,39,"","",-73.98631746,"In Service",False,"","",1,21
+"",40.689888,"DeKalb Ave & Hudson Ave","DeKalb Ave & Hudson Ave","","2015-12-11 11:50:57 AM",324,20,51,"","",-73.981013,"In Service",False,"","",1,30
+"",40.73624527,"E 19 St & 3 Ave","E 19 St & 3 Ave","","2015-12-11 11:53:29 AM",325,32,35,"","",-73.98473765,"In Service",False,"","",1,3
+"",40.72953837,"E 11 St & 1 Ave","E 11 St & 1 Ave","","2015-12-11 11:51:24 AM",326,26,27,"","",-73.98426726,"In Service",False,"","",1,1
+"",40.7153379,"Vesey Pl & River Terrace","Vesey Pl & River Terrace","","2015-12-11 11:54:29 AM",327,2,39,"","",-74.01658354,"In Service",False,"","",1,36
+"",40.72405549,"Watts St & Greenwich St","Watts St & Greenwich St","","2015-12-11 11:54:39 AM",328,14,23,"","",-74.00965965,"In Service",False,"","",1,8
+"",40.72043411,"Greenwich St & N Moore St","Greenwich St & N Moore St","","2015-12-11 11:53:02 AM",329,18,31,"","",-74.01020609,"In Service",False,"","",1,12
+"",40.71450451,"Reade St & Broadway","Reade St & Broadway","","2015-12-11 11:54:35 AM",330,8,39,"","",-74.00562789,"In Service",False,"","",1,29
+"",40.71173107,"Pike St & Monroe St","Pike St & Monroe St","","2015-12-11 11:50:55 AM",331,26,27,"","",-73.99193043,"In Service",False,"","",1,1
+"",40.71219906,"Cherry St","Cherry St","","2015-12-11 11:53:42 AM",332,15,24,"","",-73.97948148,"In Service",False,"","",1,9
+"",40.74238787,"W 20 St & 7 Ave","W 20 St & 7 Ave","","2015-12-11 11:52:43 AM",334,6,31,"","",-73.99726235,"In Service",False,"","",1,25
+"",40.72903917,"Washington Pl & Broadway","Washington Pl & Broadway","","2015-12-11 11:54:11 AM",335,2,27,"","",-73.99404649,"In Service",False,"","",1,25
+"",40.73047747,"Sullivan St & Washington Sq","Sullivan St & Washington Sq","","2015-12-11 11:53:42 AM",336,12,36,"","",-73.99906065,"In Service",False,"","",1,24
+"",40.7037992,"Old Slip & Front St","Old Slip & Front St","","2015-12-11 11:54:22 AM",337,2,37,"","",-74.00838676,"In Service",False,"","",1,34
+"",40.72580614,"Avenue D & E 12 St","Avenue D & E 12 St","","2015-12-11 11:52:59 AM",339,24,24,"","",-73.97422494,"In Service",False,"","",1,0
+"",40.71269042,"Madison St & Clinton St","Madison St & Clinton St","","2015-12-11 11:54:22 AM",340,22,27,"","",-73.98776323,"In Service",False,"","",1,5
+"",40.71782143,"Stanton St & Mangin St","Stanton St & Mangin St","","2015-12-11 11:54:37 AM",341,8,19,"","",-73.97628939,"In Service",False,"","",1,9
+"",40.71739973,"Columbia St & Rivington St","Columbia St & Rivington St","","2015-12-11 11:54:09 AM",342,27,29,"","",-73.98016555,"In Service",False,"","",1,2
+"",40.69794,"Clinton Ave & Flushing Ave","Clinton Ave & Flushing Ave","","2015-12-11 11:54:08 AM",343,19,23,"","",-73.96986848,"In Service",False,"","",1,3
+"",40.6851443,"Monroe St & Bedford Ave","Monroe St & Bedford Ave","","2015-12-11 11:51:49 AM",344,15,23,"","",-73.95380904,"In Service",False,"","",1,8
+"",40.73649403,"W 13 St & 6 Ave","W 13 St & 6 Ave","","2015-12-11 11:53:36 AM",345,5,35,"","",-73.99704374,"In Service",False,"","",1,25
+"",40.73652889,"Bank St & Hudson St","Bank St & Hudson St","","2015-12-11 11:51:15 AM",346,27,27,"","",-74.00618026,"In Service",False,"","",1,0
+"",40.728846,"Greenwich St & W Houston St","Greenwich St & W Houston St","","2015-12-11 11:53:01 AM",347,3,35,"","",-74.008591,"In Service",False,"","",1,29
+"",40.72490985,"W Broadway & Spring St","W Broadway & Spring St","","2015-12-11 11:54:32 AM",348,15,42,"","",-74.00154702,"In Service",False,"","",1,27
+"",40.71850211,"Rivington St & Ridge St","Rivington St & Ridge St","","2015-11-08 05:13:07 PM",349,3,3,"","",-73.98329859,"Not In Service",False,"","",3,0
+"",40.71559509,"Clinton St & Grand St","Clinton St & Grand St","","2015-12-11 11:52:31 AM",350,27,28,"","",-73.9870295,"In Service",False,"","",1,1
+"",40.70530954,"Front St & Maiden Ln","Front St & Maiden Ln","","2015-12-11 11:51:06 AM",351,2,39,"","",-74.00612572,"In Service",False,"","",1,34
+"",40.76340613,"W 56 St & 6 Ave","W 56 St & 6 Ave","","2015-12-11 11:53:48 AM",352,7,36,"","",-73.97722479,"In Service",False,"","",1,28
+"",40.68539567,"S Portland Ave & Hanson Pl","S Portland Ave & Hanson Pl","","2015-12-11 11:52:42 AM",353,27,27,"","",-73.97431458,"In Service",False,"","",1,0
+"",40.69363137,"Emerson Pl & Myrtle Ave","Emerson Pl & Myrtle Ave","","2015-12-11 11:52:47 AM",354,18,23,"","",-73.96223558,"In Service",False,"","",1,5
+"",40.71602118,"Bayard St & Baxter St","Bayard St & Baxter St","","2015-12-11 11:53:36 AM",355,7,43,"","",-73.99974372,"In Service",False,"","",1,34
+"",40.71622644,"Bialystoker Pl & Delancey St","Bialystoker Pl & Delancey St","","2015-12-11 11:51:06 AM",356,5,23,"","",-73.98261206,"In Service",False,"","",1,18
+"",40.73261787,"E 11 St & Broadway","E 11 St & Broadway","","2015-12-11 11:53:08 AM",357,7,27,"","",-73.99158043,"In Service",False,"","",1,19
+"",40.73291553,"Christopher St & Greenwich St","Christopher St & Greenwich St","","2015-12-11 11:54:34 AM",358,30,36,"","",-74.00711384,"In Service",False,"","",1,4
+"",40.75510267,"E 47 St & Park Ave","E 47 St & Park Ave","","2015-12-11 11:53:58 AM",359,11,55,"","",-73.97498696,"In Service",False,"","",1,39
+"",40.70717936,"William St & Pine St","William St & Pine St","","2015-12-11 11:54:31 AM",360,26,39,"","",-74.00887308,"In Service",False,"","",1,13
+"",40.71605866,"Allen St & Hester St","Allen St & Hester St","","2015-12-11 11:54:40 AM",361,40,43,"","",-73.99190759,"In Service",False,"","",1,2
+"",40.75172632,"Broadway & W 37 St","Broadway & W 37 St","","2015-12-11 11:54:37 AM",362,43,57,"","",-73.98753523,"In Service",False,"","",1,12
+"",40.70834698,"West Thames St","West Thames St","","2015-12-11 11:54:38 AM",363,40,49,"","",-74.01713445,"In Service",False,"","",1,9
+"",40.68900443,"Lafayette Ave & Classon Ave","Lafayette Ave & Classon Ave","","2015-12-11 11:51:34 AM",364,21,27,"","",-73.96023854,"In Service",False,"","",1,6
+"",40.68223166,"Fulton St & Grand Ave","Fulton St & Grand Ave","","2015-12-11 11:51:22 AM",365,30,31,"","",-73.9614583,"In Service",False,"","",1,1
+"",40.693261,"Clinton Ave & Myrtle Ave","Clinton Ave & Myrtle Ave","","2015-12-11 11:54:39 AM",366,33,33,"","",-73.968896,"In Service",False,"","",1,0
+"",40.75828065,"E 53 St & Lexington Ave","E 53 St & Lexington Ave","","2015-12-11 11:54:37 AM",367,0,34,"","",-73.97069431,"In Service",False,"","",1,33
+"",40.73038599,"Carmine St & 6 Ave","Carmine St & 6 Ave","","2015-12-11 11:54:13 AM",368,23,39,"","",-74.00214988,"In Service",False,"","",1,16
+"",40.73224119,"Washington Pl & 6 Ave","Washington Pl & 6 Ave","","2015-12-11 11:51:34 AM",369,35,35,"","",-74.00026394,"In Service",False,"","",1,0
+"",40.694528,"Franklin Ave & Myrtle Ave","Franklin Ave & Myrtle Ave","","2015-12-11 11:54:42 AM",372,25,27,"","",-73.958089,"In Service",False,"","",1,2
+"",40.69331716,"Willoughby Ave & Walworth St","Willoughby Ave & Walworth St","","2015-12-11 11:53:40 AM",373,15,19,"","",-73.95381995,"In Service",False,"","",1,4
+"",40.72679454,"Mercer St & Bleecker St","Mercer St & Bleecker St","","2015-12-11 11:54:23 AM",375,18,30,"","",-73.99695094,"In Service",False,"","",1,12
+"",40.70862144,"John St & William St","John St & William St","","2015-12-11 11:51:19 AM",376,7,43,"","",-74.00722156,"In Service",False,"","",1,35
+"",40.72243797,"6 Ave & Canal St","6 Ave & Canal St","","2015-12-11 11:54:35 AM",377,4,47,"","",-74.00566443,"In Service",False,"","",1,42
+"",40.749156,"W 31 St & 7 Ave","W 31 St & 7 Ave","","2015-12-11 11:53:36 AM",379,38,42,"","",-73.9916,"In Service",False,"","",1,2
+"",40.73401143,"W 4 St & 7 Ave S","W 4 St & 7 Ave S","","2015-12-11 11:53:11 AM",380,36,39,"","",-74.00293877,"In Service",False,"","",1,2
+"",40.73492695,"University Pl & E 14 St","University Pl & E 14 St","","2015-12-11 11:54:15 AM",382,3,36,"","",-73.99200509,"In Service",False,"","",1,33
+"",40.735238,"Greenwich Ave & Charles St","Greenwich Ave & Charles St","","2015-12-11 11:54:18 AM",383,27,39,"","",-74.000271,"In Service",False,"","",1,11
+"",40.683048,"Fulton St & Washington Ave","Fulton St & Washington Ave","","2015-12-11 11:53:51 AM",384,30,31,"","",-73.964915,"In Service",False,"","",1,1
+"",40.75797322,"E 55 St & 2 Ave","E 55 St & 2 Ave","","2015-12-11 11:53:38 AM",385,19,29,"","",-73.96603308,"In Service",False,"","",1,8
+"",40.71494807,"Centre St & Worth St","Centre St & Worth St","","2015-12-11 11:53:43 AM",386,4,43,"","",-74.00234482,"In Service",False,"","",1,36
+"",40.71273266,"Centre St & Chambers St","Centre St & Chambers St","","2015-12-11 11:53:45 AM",387,13,39,"","",-74.0046073,"In Service",False,"","",1,25
+"",40.749717753,"W 26 St & 10 Ave","W 26 St & 10 Ave","","2015-12-11 11:53:48 AM",388,4,35,"","",-74.002950346,"In Service",False,"","",1,31
+"",40.71044554,"Broadway & Berry St","Broadway & Berry St","","2015-12-11 11:52:22 AM",389,26,27,"","",-73.96525063,"In Service",False,"","",1,1
+"",40.69221589,"Duffield St & Willoughby St","Duffield St & Willoughby St","","2015-12-11 11:53:11 AM",390,1,31,"","",-73.9842844,"In Service",False,"","",1,28
+"",40.69760127,"Clark St & Henry St","Clark St & Henry St","","2015-12-11 11:50:58 AM",391,17,31,"","",-73.99344559,"In Service",False,"","",1,14
+"",40.695065,"Jay St & Tech Pl","Jay St & Tech Pl","","2015-12-11 11:53:52 AM",392,4,32,"","",-73.987167,"In Service",False,"","",1,28
+"",40.72299208,"E 5 St & Avenue C","E 5 St & Avenue C","","2015-12-11 11:53:07 AM",393,29,31,"","",-73.97995466,"In Service",False,"","",1,0
+"",40.72521311,"E 9 St & Avenue C","E 9 St & Avenue C","","2015-12-11 11:53:09 AM",394,31,32,"","",-73.97768752,"In Service",False,"","",1,0
+"",40.68807003,"Bond St & Schermerhorn St","Bond St & Schermerhorn St","","2015-12-11 11:53:31 AM",395,12,30,"","",-73.98410637,"In Service",False,"","",1,17
+"",40.680342423,"Lefferts Pl & Franklin Ave","Lefferts Pl & Franklin Ave","","2015-12-11 11:53:49 AM",396,14,25,"","",-73.9557689392,"In Service",False,"","",1,10
+"",40.68415748,"Fulton St & Clermont Ave","Fulton St & Clermont Ave","","2015-12-11 11:51:38 AM",397,26,27,"","",-73.96922273,"In Service",False,"","",1,0
+"",40.69165183,"Atlantic Ave & Furman St","Atlantic Ave & Furman St","","2015-12-11 11:52:31 AM",398,17,31,"","",-73.9999786,"In Service",False,"","",1,13
+"",40.68851534,"Lafayette Ave & St James Pl","Lafayette Ave & St James Pl","","2015-12-11 11:51:28 AM",399,26,27,"","",-73.9647628,"In Service",False,"","",1,1
+"",40.71926081,"Pitt St & Stanton St","Pitt St & Stanton St","","2015-12-11 11:53:06 AM",400,15,15,"","",-73.98178024,"In Service",False,"","",1,0
+"",40.72019576,"Allen St & Rivington St","Allen St & Rivington St","","2015-12-11 11:54:44 AM",401,40,42,"","",-73.98997825,"In Service",False,"","",1,1
+"",40.7403432,"Broadway & E 22 St","Broadway & E 22 St","","2015-12-11 11:54:04 AM",402,0,42,"","",-73.98955109,"In Service",False,"","",1,38
+"",40.72502876,"E 2 St & 2 Ave","E 2 St & 2 Ave","","2015-12-11 11:54:23 AM",403,27,31,"","",-73.99069656,"In Service",False,"","",1,2
+"",40.739323,"Washington St & Gansevoort St","Washington St & Gansevoort St","","2015-12-11 11:54:21 AM",405,39,40,"","",-74.008119,"In Service",False,"","",1,1
+"",40.69512845,"Hicks St & Montague St","Hicks St & Montague St","","2015-12-11 11:53:42 AM",406,33,34,"","",-73.99595065,"In Service",False,"","",1,0
+"",40.700469,"Henry St & Poplar St","Henry St & Poplar St","","2015-12-11 11:52:32 AM",407,36,37,"","",-73.991454,"In Service",False,"","",1,1
+"",40.71076228,"Market St & Cherry St","Market St & Cherry St","","2015-12-11 11:53:52 AM",408,22,23,"","",-73.99400398,"In Service",False,"","",1,1
+"",40.6906495,"DeKalb Ave & Skillman St","DeKalb Ave & Skillman St","","2015-12-11 11:51:32 AM",409,19,19,"","",-73.95643107,"In Service",False,"","",1,0
+"",40.72066442,"Suffolk St & Stanton St","Suffolk St & Stanton St","","2015-12-11 11:52:26 AM",410,34,35,"","",-73.98517977,"In Service",False,"","",1,1
+"",40.72228087,"E 6 St & Avenue D","E 6 St & Avenue D","","2015-12-11 11:53:42 AM",411,23,23,"","",-73.97668709,"In Service",False,"","",1,0
+"",40.7158155,"Forsyth St & Canal St","Forsyth St & Canal St","","2015-12-11 11:53:19 AM",412,19,29,"","",-73.99422366,"In Service",False,"","",1,10
+"",40.70281858,"Pearl St & Anchorage Pl","Pearl St & Anchorage Pl","","2015-12-11 11:54:40 AM",414,1,24,"","",-73.98765762,"In Service",False,"","",1,21
+"",40.7047177,"Pearl St & Hanover Square","Pearl St & Hanover Square","","2015-12-11 11:52:39 AM",415,28,42,"","",-74.00926027,"In Service",False,"","",1,9
+"",40.68753406,"Cumberland St & Lafayette Ave","Cumberland St & Lafayette Ave","","2015-12-11 11:54:41 AM",416,30,31,"","",-73.97265183,"In Service",False,"","",1,1
+"",40.71291224,"Barclay St & Church St","Barclay St & Church St","","2015-12-11 11:54:04 AM",417,15,23,"","",-74.01020234,"In Service",False,"","",1,4
+"",40.70224,"Front St & Gold St","Front St & Gold St","","2015-12-11 11:52:18 AM",418,0,23,"","",-73.982578,"In Service",False,"","",1,23
+"",40.69580705,"Carlton Ave & Park Ave","Carlton Ave & Park Ave","","2015-12-11 11:52:03 AM",419,23,23,"","",-73.97355569,"In Service",False,"","",1,0
+"",40.68764484,"Clermont Ave & Lafayette Ave","Clermont Ave & Lafayette Ave","","2015-12-11 11:52:19 AM",420,23,23,"","",-73.96968902,"In Service",False,"","",1,0
+"",40.69573398,"Clermont Ave & Park Ave","Clermont Ave & Park Ave","","2015-12-11 11:51:40 AM",421,17,19,"","",-73.97129668,"In Service",False,"","",1,1
+"",40.770513,"W 59 St & 10 Ave","W 59 St & 10 Ave","","2015-12-11 11:53:47 AM",422,54,55,"","",-73.988038,"In Service",False,"","",1,1
+"",40.76584941,"W 54 St & 9 Ave","W 54 St & 9 Ave","","2015-12-11 11:53:39 AM",423,36,39,"","",-73.98690506,"In Service",False,"","",1,2
+"",40.71754834,"West St & Chambers St","West St & Chambers St","","2015-12-11 11:54:43 AM",426,7,31,"","",-74.01322069,"In Service",False,"","",1,23
+"",40.701907,"Bus Slip & State St","Bus Slip & State St","","2015-12-11 11:54:41 AM",427,0,47,"","",-74.013942,"In Service",False,"","",1,47
+"",40.72467721,"E 3 St & 1 Ave","E 3 St & 1 Ave","","2015-12-11 11:54:27 AM",428,31,31,"","",-73.98783413,"In Service",False,"","",1,0
+"",40.7014851,"York St & Jay St","York St & Jay St","","2015-12-11 11:54:29 AM",430,5,27,"","",-73.98656928,"In Service",False,"","",1,22
+"",40.72621788,"E 7 St & Avenue A","E 7 St & Avenue A","","2015-12-11 11:54:32 AM",432,25,31,"","",-73.98379855,"In Service",False,"","",1,3
+"",40.72955361,"E 13 St & Avenue A","E 13 St & Avenue A","","2015-12-11 11:54:16 AM",433,39,39,"","",-73.98057249,"In Service",False,"","",1,0
+"",40.74317449,"9 Ave & W 18 St","9 Ave & W 18 St","","2015-12-11 11:53:52 AM",434,3,27,"","",-74.00366443,"In Service",False,"","",1,21
+"",40.74173969,"W 21 St & 6 Ave","W 21 St & 6 Ave","","2015-12-11 11:52:32 AM",435,1,47,"","",-73.99415556,"In Service",False,"","",1,41
+"",40.68216564,"Hancock St & Bedford Ave","Hancock St & Bedford Ave","","2015-12-11 11:54:27 AM",436,26,27,"","",-73.95399026,"In Service",False,"","",1,1
+"",40.6809833854,"Macon St & Nostrand Ave","Macon St & Nostrand Ave","","2015-12-11 11:53:47 AM",437,18,24,"","",-73.9500479759,"In Service",False,"","",1,6
+"",40.72779126,"St Marks Pl & 1 Ave","St Marks Pl & 1 Ave","","2015-12-11 11:52:08 AM",438,27,27,"","",-73.98564945,"In Service",False,"","",1,0
+"",40.7262807,"E 4 St & 2 Ave","E 4 St & 2 Ave","","2015-12-11 11:52:15 AM",439,33,39,"","",-73.98978041,"In Service",False,"","",1,6
+"",40.75255434,"E 45 St & 3 Ave","E 45 St & 3 Ave","","2015-12-11 11:51:19 AM",440,3,32,"","",-73.97282625,"In Service",False,"","",1,28
+"",40.756014,"E 52 St & 2 Ave","E 52 St & 2 Ave","","2015-12-11 11:52:27 AM",441,24,35,"","",-73.967416,"In Service",False,"","",1,11
+"",40.746647,"W 27 St & 7 Ave","W 27 St & 7 Ave","","2015-12-11 11:54:03 AM",442,6,51,"","",-73.993915,"In Service",False,"","",1,44
+"",40.70853074,"Bedford Ave & S 9 St","Bedford Ave & S 9 St","","2015-12-11 11:52:04 AM",443,22,23,"","",-73.96408963,"In Service",False,"","",1,1
+"",40.7423543,"Broadway & W 24 St","Broadway & W 24 St","","2015-12-11 11:54:29 AM",444,1,52,"","",-73.98915076,"In Service",False,"","",1,49
+"",40.72740794,"E 10 St & Avenue A","E 10 St & Avenue A","","2015-12-11 11:53:56 AM",445,38,42,"","",-73.98142006,"In Service",False,"","",1,4
+"",40.74487634,"W 24 St & 7 Ave","W 24 St & 7 Ave","","2015-12-11 11:53:12 AM",446,10,39,"","",-73.99529885,"In Service",False,"","",1,27
+"",40.76370739,"8 Ave & W 52 St","8 Ave & W 52 St","","2015-12-11 11:53:40 AM",447,14,31,"","",-73.9851615,"In Service",False,"","",1,17
+"",40.75660359,"W 37 St & 10 Ave","W 37 St & 10 Ave","","2015-12-11 11:54:19 AM",448,30,31,"","",-73.9979009,"In Service",False,"","",1,1
+"",40.76461837,"W 52 St & 9 Ave","W 52 St & 9 Ave","","2015-12-11 11:51:30 AM",449,28,31,"","",-73.98789473,"In Service",False,"","",1,3
+"",40.76227205,"W 49 St & 8 Ave","W 49 St & 8 Ave","","2015-12-11 11:51:01 AM",450,58,59,"","",-73.98788205,"In Service",False,"","",1,0
+"",40.74475148,"W 22 St & 8 Ave","W 22 St & 8 Ave","","2015-12-11 11:54:22 AM",453,29,39,"","",-73.99915362,"In Service",False,"","",1,4
+"",40.75455731,"E 51 St & 1 Ave","E 51 St & 1 Ave","","2015-12-11 11:52:07 AM",454,34,35,"","",-73.96592976,"In Service",False,"","",1,1
+"",40.75001986,"1 Ave & E 44 St","1 Ave & E 44 St","","2015-12-11 11:52:58 AM",455,0,39,"","",-73.96905301,"In Service",False,"","",1,35
+"",40.7597108,"E 53 St & Madison Ave","E 53 St & Madison Ave","","2015-12-11 11:53:51 AM",456,2,35,"","",-73.97402311,"In Service",False,"","",1,33
+"",40.76695317,"Broadway & W 58 St","Broadway & W 58 St","","2015-12-11 11:53:56 AM",457,33,39,"","",-73.98169333,"In Service",False,"","",1,2
+"",40.751396,"11 Ave & W 27 St","11 Ave & W 27 St","","2015-12-11 11:51:36 AM",458,9,31,"","",-74.005226,"In Service",False,"","",1,20
+"",40.746745,"W 20 St & 11 Ave","W 20 St & 11 Ave","","2015-12-11 11:52:30 AM",459,5,49,"","",-74.007756,"In Service",False,"","",1,44
+"",40.71285887,"S 4 St & Wythe Ave","S 4 St & Wythe Ave","","2015-12-11 11:53:43 AM",460,21,23,"","",-73.96590294,"In Service",False,"","",1,2
+"",40.73587678,"E 20 St & 2 Ave","E 20 St & 2 Ave","","2015-12-11 11:54:12 AM",461,38,39,"","",-73.98205027,"In Service",False,"","",1,0
+"",40.74691959,"W 22 St & 10 Ave","W 22 St & 10 Ave","","2015-12-11 11:53:19 AM",462,37,47,"","",-74.00451887,"In Service",False,"","",1,8
+"",40.74206539,"9 Ave & W 16 St","9 Ave & W 16 St","","2015-12-11 11:54:37 AM",463,3,25,"","",-74.00443172,"In Service",False,"","",1,22
+"",40.75513557,"Broadway & W 41 St","Broadway & W 41 St","","2015-12-11 11:53:28 AM",465,19,39,"","",-73.98658032,"In Service",False,"","",1,17
+"",40.74395411,"W 25 St & 6 Ave","W 25 St & 6 Ave","","2015-12-11 11:52:51 AM",466,0,35,"","",-73.99144871,"In Service",False,"","",1,32
+"",40.68312489,"Dean St & 4 Ave","Dean St & 4 Ave","","2015-12-11 11:52:23 AM",467,25,34,"","",-73.97895137,"In Service",False,"","",1,9
+"",40.7652654,"Broadway & W 55 St","Broadway & W 55 St","","2015-12-11 11:52:47 AM",468,51,59,"","",-73.98192338,"In Service",False,"","",1,8
+"",40.76344058,"Broadway & W 53 St","Broadway & W 53 St","","2015-12-11 11:53:50 AM",469,21,57,"","",-73.98268129,"In Service",False,"","",1,36
+"",40.74345335,"W 20 St & 8 Ave","W 20 St & 8 Ave","","2015-12-11 11:53:14 AM",470,34,37,"","",-74.00004031,"In Service",False,"","",1,2
+"",40.71286844,"Grand St & Havemeyer St","Grand St & Havemeyer St","","2015-12-11 11:52:31 AM",471,28,31,"","",-73.95698119,"In Service",False,"","",1,3
+"",40.7457121,"E 32 St & Park Ave","E 32 St & Park Ave","","2015-12-11 11:53:21 AM",472,16,41,"","",-73.98194829,"In Service",False,"","",1,22
+"",40.72110063,"Rivington St & Chrystie St","Rivington St & Chrystie St","","2015-12-11 11:54:16 AM",473,17,38,"","",-73.9919254,"In Service",False,"","",1,20
+"",40.7451677,"5 Ave & E 29 St","5 Ave & E 29 St","","2015-12-11 11:51:47 AM",474,5,47,"","",-73.98683077,"In Service",False,"","",1,41
+"",40.73524276,"E 16 St & Irving Pl","E 16 St & Irving Pl","","2015-12-11 11:54:31 AM",475,33,37,"","",-73.98758561,"In Service",False,"","",1,2
+"",40.74394314,"E 31 St & 3 Ave","E 31 St & 3 Ave","","2015-12-11 11:54:10 AM",476,46,47,"","",-73.97966069,"In Service",False,"","",1,1
+"",40.75640548,"W 41 St & 8 Ave","W 41 St & 8 Ave","","2015-12-11 11:54:00 AM",477,52,59,"","",-73.9900262,"In Service",False,"","",1,6
+"",40.76030096,"11 Ave & W 41 St","11 Ave & W 41 St","","2015-12-11 11:53:38 AM",478,29,31,"","",-73.99884222,"In Service",False,"","",1,2
+"",40.76019252,"9 Ave & W 45 St","9 Ave & W 45 St","","2015-12-11 11:54:20 AM",479,28,31,"","",-73.9912551,"In Service",False,"","",1,0
+"",40.76669671,"W 53 St & 10 Ave","W 53 St & 10 Ave","","2015-12-11 11:51:13 AM",480,23,27,"","",-73.99061728,"In Service",False,"","",1,3
+"",40.71260486,"S 3 St & Bedford Ave","S 3 St & Bedford Ave","","2015-12-11 11:53:25 AM",481,22,25,"","",-73.96264403,"In Service",False,"","",1,3
+"",40.73935542,"W 15 St & 7 Ave","W 15 St & 7 Ave","","2015-12-11 11:54:05 AM",482,20,39,"","",-73.99931783,"In Service",False,"","",1,19
+"",40.73223272,"E 12 St & 3 Ave","E 12 St & 3 Ave","","2015-12-11 11:54:13 AM",483,33,35,"","",-73.98889957,"In Service",False,"","",1,0
+"",40.75500254,"W 44 St & 5 Ave","W 44 St & 5 Ave","","2015-12-11 11:53:52 AM",484,5,44,"","",-73.98014437,"In Service",False,"","",1,39
+"",40.75038009,"W 37 St & 5 Ave","W 37 St & 5 Ave","","2015-12-11 11:53:23 AM",485,26,39,"","",-73.98338988,"In Service",False,"","",1,13
+"",40.7462009,"Broadway & W 29 St","Broadway & W 29 St","","2015-12-11 11:53:28 AM",486,21,39,"","",-73.98855723,"In Service",False,"","",1,14
+"",40.73314259,"E 20 St & FDR Drive","E 20 St & FDR Drive","","2015-12-11 11:51:30 AM",487,33,36,"","",-73.97573881,"In Service",False,"","",1,0
+"",40.75645824,"W 39 St & 9 Ave","W 39 St & 9 Ave","","2015-12-11 11:53:48 AM",488,35,41,"","",-73.99372222,"In Service",False,"","",1,3
+"",40.75066386,"10 Ave & W 28 St","10 Ave & W 28 St","","2015-12-11 11:53:53 AM",489,33,37,"","",-74.00176802,"In Service",False,"","",1,2
+"",40.751551,"8 Ave & W 33 St","8 Ave & W 33 St","","2015-12-11 11:53:33 AM",490,55,59,"","",-73.993934,"In Service",False,"","",1,0
+"",40.74096374,"E 24 St & Park Ave S","E 24 St & Park Ave S","","2015-12-11 11:54:33 AM",491,9,53,"","",-73.98602213,"In Service",False,"","",1,43
+"",40.75019995,"W 33 St & 7 Ave","W 33 St & 7 Ave","","2015-12-11 11:53:07 AM",492,44,49,"","",-73.99093085,"In Service",False,"","",1,2
+"",40.7568001,"W 45 St & 6 Ave","W 45 St & 6 Ave","","2015-12-11 11:52:35 AM",493,5,34,"","",-73.98291153,"In Service",False,"","",1,29
+"",40.74734825,"W 26 St & 8 Ave","W 26 St & 8 Ave","","2015-12-11 11:52:40 AM",494,29,35,"","",-73.99723551,"In Service",False,"","",1,1
+"",40.76269882,"W 47 St & 10 Ave","W 47 St & 10 Ave","","2015-12-11 11:54:26 AM",495,24,25,"","",-73.99301222,"In Service",False,"","",1,0
+"",40.73726186,"E 16 St & 5 Ave","E 16 St & 5 Ave","","2015-12-11 11:53:46 AM",496,2,47,"","",-73.99238967,"In Service",False,"","",1,45
+"",40.73704984,"E 17 St & Broadway","E 17 St & Broadway","","2015-12-11 11:54:40 AM",497,0,0,"","",-73.99009296,"Not In Service",False,"","",1,0
+"",40.74854862,"Broadway & W 32 St","Broadway & W 32 St","","2015-12-11 11:54:37 AM",498,22,30,"","",-73.98808416,"In Service",False,"","",1,4
+"",40.76915505,"Broadway & W 60 St","Broadway & W 60 St","","2015-12-11 11:54:28 AM",499,30,36,"","",-73.98191841,"In Service",False,"","",1,3
+"",40.76228826,"Broadway & W 51 St","Broadway & W 51 St","","2015-12-11 11:53:51 AM",500,2,52,"","",-73.98336183,"In Service",False,"","",1,49
+"",40.744219,"FDR Drive & E 35 St","FDR Drive & E 35 St","","2015-12-11 11:53:20 AM",501,42,43,"","",-73.97121214,"In Service",False,"","",1,0
+"",40.714215,"Henry St & Grand St","Henry St & Grand St","","2015-12-11 11:51:23 AM",502,26,30,"","",-73.981346,"In Service",False,"","",1,4
+"",40.73827428,"E 20 St & Park Ave","E 20 St & Park Ave","","2015-12-11 11:53:04 AM",503,9,29,"","",-73.98751968,"In Service",False,"","",1,20
+"",40.73221853,"1 Ave & E 15 St","1 Ave & E 15 St","","2015-12-11 11:53:36 AM",504,44,45,"","",-73.98165557,"In Service",False,"","",1,0
+"",40.74901271,"6 Ave & W 33 St","6 Ave & W 33 St","","2015-12-11 11:54:17 AM",505,31,36,"","",-73.98848395,"In Service",False,"","",1,5
+"",40.73912601,"E 25 St & 2 Ave","E 25 St & 2 Ave","","2015-12-11 12:12:10 AM",507,35,47,"","",-73.97973776,"Not In Service",False,"","",3,12
+"",40.76341379,"W 46 St & 11 Ave","W 46 St & 11 Ave","","2015-12-11 11:52:44 AM",508,16,24,"","",-73.99667444,"In Service",False,"","",1,7
+"",40.7454973,"9 Ave & W 22 St","9 Ave & W 22 St","","2015-12-11 11:54:16 AM",509,28,36,"","",-74.00197139,"In Service",False,"","",1,6
+"",40.7606597,"W 51 St & 6 Ave","W 51 St & 6 Ave","","2015-12-11 11:52:46 AM",510,1,51,"","",-73.98042047,"In Service",False,"","",1,50
+"",40.72938685,"E 14 St & Avenue B","E 14 St & Avenue B","","2015-12-11 11:54:22 AM",511,27,33,"","",-73.97772429,"In Service",False,"","",1,6
+"",40.7500727,"W 29 St & 9 Ave","W 29 St & 9 Ave","","2015-12-11 11:54:16 AM",512,21,27,"","",-73.99839279,"In Service",False,"","",1,5
+"",40.768254,"W 56 St & 10 Ave","W 56 St & 10 Ave","","2015-12-11 11:52:47 AM",513,21,27,"","",-73.988639,"In Service",False,"","",1,5
+"",40.76087502,"12 Ave & W 40 St","12 Ave & W 40 St","","2015-12-11 11:53:57 AM",514,51,53,"","",-74.00277668,"In Service",False,"","",1,0
+"",40.76009437,"W 43 St & 10 Ave","W 43 St & 10 Ave","","2015-12-11 11:53:59 AM",515,35,35,"","",-73.99461843,"In Service",False,"","",1,0
+"",40.75206862,"E 47 St & 1 Ave","E 47 St & 1 Ave","","2015-12-11 11:52:18 AM",516,11,31,"","",-73.96784384,"In Service",False,"","",1,19
+"",40.751581,"Pershing Square South","Pershing Square South","","2015-12-11 11:52:05 AM",517,37,59,"","",-73.97791,"In Service",False,"","",1,21
+"",40.74780373,"E 39 St & 2 Ave","E 39 St & 2 Ave","","2015-12-11 11:52:58 AM",518,38,39,"","",-73.9734419,"In Service",False,"","",1,0
+"",40.751873,"Pershing Square North","Pershing Square North","","2015-12-11 11:53:19 AM",519,33,61,"","",-73.977706,"In Service",False,"","",1,27
+"",40.75992262,"W 52 St & 5 Ave","W 52 St & 5 Ave","","2015-12-11 11:54:44 AM",520,28,39,"","",-73.97648516,"In Service",False,"","",1,9
+"",40.750967348716,"8 Ave & W 31 St","8 Ave & W 31 St","","2015-12-11 11:54:30 AM",521,36,39,"","",-73.994442075491,"In Service",False,"","",1,3
+"",40.75714758,"E 51 St & Lexington Ave","E 51 St & Lexington Ave","","2015-12-11 11:52:48 AM",522,4,51,"","",-73.97207836,"In Service",False,"","",1,47
+"",40.75466591,"W 38 St & 8 Ave","W 38 St & 8 Ave","","2015-12-11 11:54:32 AM",523,48,51,"","",-73.99138152,"In Service",False,"","",1,3
+"",40.75527307,"W 43 St & 6 Ave","W 43 St & 6 Ave","","2015-12-11 11:51:46 AM",524,3,57,"","",-73.98316936,"In Service",False,"","",1,51
+"",40.75594159,"W 34 St & 11 Ave","W 34 St & 11 Ave","","2015-12-11 11:53:30 AM",525,36,39,"","",-74.0021163,"In Service",False,"","",1,0
+"",40.74765947,"E 33 St & 5 Ave","E 33 St & 5 Ave","","2015-12-11 11:53:06 AM",526,8,39,"","",-73.98490707,"In Service",False,"","",1,31
+"",40.744023,"E 33 St & 2 Ave","E 33 St & 2 Ave","","2015-12-11 11:54:10 AM",527,56,59,"","",-73.976056,"In Service",False,"","",1,1
+"",40.74290902,"2 Ave & E 31 St","2 Ave & E 31 St","","2015-12-11 11:51:10 AM",528,37,39,"","",-73.97706058,"In Service",False,"","",1,1
+"",40.7575699,"W 42 St & 8 Ave","W 42 St & 8 Ave","","2015-12-11 11:51:02 AM",529,40,41,"","",-73.99098507,"In Service",False,"","",1,1
+"",40.771522,"11 Ave & W 59 St","11 Ave & W 59 St","","2015-12-11 11:50:46 AM",530,34,36,"","",-73.990541,"In Service",False,"","",1,1
+"",40.71893904,"Forsyth St & Broome St","Forsyth St & Broome St","","2015-12-11 11:51:27 AM",531,34,39,"","",-73.99266288,"In Service",False,"","",1,3
+"",40.710451,"S 5 Pl & S 4 St","S 5 Pl & S 4 St","","2015-12-11 11:50:53 AM",532,43,43,"","",-73.960876,"In Service",False,"","",1,0
+"",40.75299641,"Broadway & W 39 St","Broadway & W 39 St","","2015-12-11 11:54:14 AM",533,27,50,"","",-73.98721619,"In Service",False,"","",1,22
+"",40.70255065,"Water - Whitehall Plaza","Water - Whitehall Plaza","","2015-12-11 11:52:33 AM",534,0,31,"","",-74.0127234,"In Service",False,"","",1,30
+"",40.74144387,"1 Ave & E 30 St","1 Ave & E 30 St","","2015-12-11 11:53:05 AM",536,3,29,"","",-73.97536082,"In Service",False,"","",1,26
+"",40.74025878,"Lexington Ave & E 24 St","Lexington Ave & E 24 St","","2015-12-11 11:53:02 AM",537,19,39,"","",-73.98409214,"In Service",False,"","",1,20
+"",40.71534825,"Metropolitan Ave & Bedford Ave","Metropolitan Ave & Bedford Ave","","2015-12-11 11:54:43 AM",539,27,31,"","",-73.96024116,"In Service",False,"","",1,2
+"",40.743115553765,"Lexington Ave & E 29 St","Lexington Ave & E 29 St","","2015-12-11 11:51:48 AM",540,27,30,"","",-73.982153534889,"In Service",False,"","",1,3
+"",40.736502,"E 23 St & 1 Ave","E 23 St & 1 Ave","","2015-12-11 11:54:30 AM",545,25,27,"","",-73.97809472,"In Service",False,"","",1,0
+"",40.74444921,"E 30 St & Park Ave S","E 30 St & Park Ave S","","2015-12-11 11:52:26 AM",546,10,38,"","",-73.98303529,"In Service",False,"","",1,25
+"",40.70255088,"Front St & Washington St","Front St & Washington St","","2015-12-11 11:53:58 AM",2000,6,30,"","",-73.98940236,"In Service",False,"","",1,22
+"",40.699773,"Sands St & Navy St","Sands St & Navy St","","2015-12-11 11:51:19 AM",2001,0,15,"","",-73.979927,"In Service",False,"","",1,15
+"",40.716887,"Wythe Ave & Metropolitan Ave","Wythe Ave & Metropolitan Ave","","2015-12-11 11:52:52 AM",2002,14,27,"","",-73.963198,"In Service",False,"","",1,12
+"",40.733812191966,"1 Ave & E 18 St","1 Ave & E 18 St","","2015-12-11 11:53:36 AM",2003,39,39,"","",-73.98054420948,"In Service",False,"","",1,0
+"",40.724399,"6 Ave & Broome St","6 Ave & Broome St","","2015-12-11 11:54:16 AM",2004,0,36,"","",-74.004704,"In Service",False,"","",1,36
+"",40.70531194,"Railroad Ave & Kay Ave","Railroad Ave & Kay Ave","","2015-12-11 11:53:08 AM",2005,6,12,"","",-73.97100056,"In Service",False,"","",1,6
+"",40.76590936,"Central Park S & 6 Ave","Central Park S & 6 Ave","","2015-12-11 11:53:16 AM",2006,38,49,"","",-73.97634151,"In Service",False,"","",1,6
+"",40.70569254,"Little West St & 1 Pl","Little West St & 1 Pl","","2015-12-11 11:54:13 AM",2008,9,24,"","",-74.01677685,"In Service",False,"","",1,13
+"",40.71117444,"Catherine St & Monroe St","Catherine St & Monroe St","","2015-12-11 11:54:18 AM",2009,30,35,"","",-73.99682619,"In Service",False,"","",1,5
+"",40.72165481,"Grand St & Greene St","Grand St & Greene St","","2015-12-11 11:53:37 AM",2010,7,39,"","",-74.00234737,"In Service",False,"","",1,31
+"",40.739445,"E 27 St & 1 Ave","E 27 St & 1 Ave","","2015-12-11 11:54:34 AM",2012,35,36,"","",-73.976806,"In Service",False,"","",1,0
+"",40.75022392,"E 43 St & 2 Ave","E 43 St & 2 Ave","","2015-12-11 11:54:10 AM",2017,28,39,"","",-73.97121414,"In Service",False,"","",1,10
+"",40.75929124,"W 45 St & 8 Ave","W 45 St & 8 Ave","","2015-12-11 11:52:50 AM",2021,43,43,"","",-73.98859651,"In Service",False,"","",1,0
+"",40.759107,"E 60 St & York Ave","E 60 St & York Ave","","2015-12-11 11:53:51 AM",2022,26,33,"","",-73.959223,"In Service",False,"","",1,5
+"",40.75968085,"E 55 St & Lexington Ave","E 55 St & Lexington Ave","","2015-12-11 11:53:58 AM",2023,1,36,"","",-73.97031366,"In Service",False,"","",1,34
+"",40.711512,"South End Ave & Liberty St","South End Ave & Liberty St","","2015-12-11 11:51:15 AM",3002,3,25,"","",-74.015756,"In Service",False,"","",1,22
+"",40.67890679,"Kingston Ave & Herkimer St","Kingston Ave & Herkimer St","","2015-12-11 11:52:11 AM",3041,21,24,"","",-73.94142771,"In Service",False,"","",1,3
+"",40.6794268,"Fulton St & Utica Ave","Fulton St & Utica Ave","","2015-12-11 11:51:42 AM",3042,5,19,"","",-73.9298911,"In Service",False,"","",1,13
+"",40.6814598,"Lewis Ave & Decatur St","Lewis Ave & Decatur St","","2015-12-11 11:53:17 AM",3043,6,19,"","",-73.934903,"In Service",False,"","",1,12
+"",40.6800105,"Albany Ave & Fulton St","Albany Ave & Fulton St","","2015-12-11 11:53:10 AM",3044,23,27,"","",-73.938475,"In Service",False,"","",1,3
+"",40.682601,"Marcus Garvey Blvd & Macon St","Marcus Garvey Blvd & Macon St","","2015-12-11 11:52:16 AM",3046,13,19,"","",-73.938037,"In Service",False,"","",1,6
+"",40.6823687,"Halsey St & Tompkins Ave","Halsey St & Tompkins Ave","","2015-12-11 11:53:45 AM",3047,14,21,"","",-73.944118,"In Service",False,"","",1,7
+"",40.68402,"Putnam Ave & Nostrand Ave","Putnam Ave & Nostrand Ave","","2015-12-11 11:54:11 AM",3048,9,19,"","",-73.94977,"In Service",False,"","",1,10
+"",40.68488,"Cambridge Pl & Gates Ave","Cambridge Pl & Gates Ave","","2015-12-11 11:54:42 AM",3049,18,18,"","",-73.96304,"In Service",False,"","",1,0
+"",40.6851532,"Putnam Ave & Throop Ave","Putnam Ave & Throop Ave","","2015-12-11 11:52:13 AM",3050,11,21,"","",-73.94111,"In Service",False,"","",1,10
+"",40.68668,"Gates Ave & Marcy Ave","Gates Ave & Marcy Ave","","1969-12-31 07:00:00 PM",3051,0,0,"","",-73.94733,"Not In Service",False,"","",3,0
+"",40.686312,"Lewis Ave & Madison St","Lewis Ave & Madison St","","2015-12-11 11:53:38 AM",3052,23,23,"","",-73.935775,"In Service",False,"","",1,0
+"",40.6900815,"Marcy Ave & Lafayette Ave","Marcy Ave & Lafayette Ave","","2015-12-11 11:52:01 AM",3053,22,23,"","",-73.947915,"In Service",False,"","",1,1
+"",40.6894932,"Greene Ave & Throop Ave","Greene Ave & Throop Ave","","2015-12-11 11:53:05 AM",3054,19,19,"","",-73.942061,"In Service",False,"","",1,0
+"",40.6883337,"Greene Ave & Nostrand Ave","Greene Ave & Nostrand Ave","","2015-12-11 11:53:33 AM",3055,22,23,"","",-73.950916,"In Service",False,"","",1,1
+"",40.69072549,"Kosciuszko St & Nostrand Ave","Kosciuszko St & Nostrand Ave","","2015-12-11 11:54:25 AM",3056,20,23,"","",-73.95133465,"In Service",False,"","",1,3
+"",40.69128258,"Kosciuszko St & Tompkins Ave","Kosciuszko St & Tompkins Ave","","2015-12-11 11:53:49 AM",3057,14,18,"","",-73.9452416,"In Service",False,"","",1,3
+"",40.69237074,"Lewis Ave & Kosciuszko St","Lewis Ave & Kosciuszko St","","2015-12-11 11:52:31 AM",3058,18,24,"","",-73.93705428,"In Service",False,"","",1,5
+"",40.6933982,"Pulaski St & Marcus Garvey Blvd","Pulaski St & Marcus Garvey Blvd","","2015-12-11 11:53:27 AM",3059,5,19,"","",-73.939877,"In Service",False,"","",1,14
+"",40.69425403,"Willoughby Ave & Tompkins Ave","Willoughby Ave & Tompkins Ave","","2015-12-11 11:53:33 AM",3060,12,19,"","",-73.94626915,"In Service",False,"","",1,6
+"",40.69622937,"Throop Ave & Myrtle Ave","Throop Ave & Myrtle Ave","","2015-12-11 11:54:02 AM",3061,18,21,"","",-73.94371094,"In Service",False,"","",1,3
+"",40.69539817,"Myrtle Ave & Marcy Ave","Myrtle Ave & Marcy Ave","","2015-12-11 11:53:44 AM",3062,11,23,"","",-73.94954908,"In Service",False,"","",1,12
+"",40.69527008,"Nostrand Ave & Myrtle Ave","Nostrand Ave & Myrtle Ave","","2015-12-11 11:53:17 AM",3063,16,20,"","",-73.95238108,"In Service",False,"","",1,4
+"",40.69681963,"Myrtle Ave & Lewis Ave","Myrtle Ave & Lewis Ave","","2015-12-11 11:53:19 AM",3064,11,23,"","",-73.93756926,"In Service",False,"","",1,12
+"",40.70029511,"Union Ave & Wallabout St","Union Ave & Wallabout St","","2015-12-11 11:52:37 AM",3065,7,27,"","",-73.95032283,"In Service",False,"","",1,20
+"",40.69957608,"Tompkins Ave & Hopkins St","Tompkins Ave & Hopkins St","","2015-12-11 11:53:36 AM",3066,12,19,"","",-73.94708417,"In Service",False,"","",1,7
+"",40.7016657,"Broadway & Whipple St","Broadway & Whipple St","","2015-12-11 11:51:19 AM",3067,27,27,"","",-73.9437303,"In Service",False,"","",1,0
+"",40.7031724,"Humboldt St & Varet St","Humboldt St & Varet St","","2015-12-11 11:53:12 AM",3068,14,24,"","",-73.940636,"In Service",False,"","",1,10
+"",40.70411791,"Lorimer St & Broadway","Lorimer St & Broadway","","2015-12-11 11:51:46 AM",3069,15,25,"","",-73.94818595,"In Service",False,"","",1,10
+"",40.70510918,"McKibbin St & Manhattan Ave","McKibbin St & Manhattan Ave","","2015-12-11 11:54:21 AM",3070,23,23,"","",-73.94407279,"In Service",False,"","",1,0
+"",40.70538077,"Boerum St & Broadway","Boerum St & Broadway","","2015-12-11 11:53:04 AM",3071,1,19,"","",-73.94976519,"In Service",False,"","",1,18
+"",40.70583339,"Leonard St & Boerum St","Leonard St & Boerum St","","2015-12-11 11:54:00 AM",3072,14,24,"","",-73.94644578,"In Service",False,"","",1,10
+"",40.70691254,"Division Ave & Hooper St","Division Ave & Hooper St","","2015-12-11 11:51:13 AM",3073,19,27,"","",-73.95441667,"In Service",False,"","",1,8
+"",40.70767788,"Montrose Ave & Bushwick Ave","Montrose Ave & Bushwick Ave","","2015-12-11 11:53:50 AM",3074,18,31,"","",-73.94016171,"In Service",False,"","",1,13
+"",40.70708701,"Division Ave & Marcy Ave","Division Ave & Marcy Ave","","2015-12-11 11:53:41 AM",3075,22,33,"","",-73.95796783,"In Service",False,"","",1,11
+"",40.70870368,"Scholes St & Manhattan Ave","Scholes St & Manhattan Ave","","2015-12-11 11:54:08 AM",3076,20,24,"","",-73.9448625,"In Service",False,"","",1,4
+"",40.70877084,"Stagg St & Union Ave","Stagg St & Union Ave","","2015-12-11 11:52:53 AM",3077,31,33,"","",-73.95095259,"In Service",False,"","",1,2
+"",40.70925562,"Broadway & Roebling St","Broadway & Roebling St","","2015-12-11 11:54:28 AM",3078,20,27,"","",-73.95982218,"In Service",False,"","",1,7
+"",40.71103537,"Leonard St & Grand St","Leonard St & Grand St","","2015-12-11 11:54:16 AM",3079,18,24,"","",-73.94714303,"In Service",False,"","",1,6
+"",40.70934,"S 4 St & Rodney St","S 4 St & Rodney St","","2015-12-11 11:53:07 AM",3080,7,21,"","",-73.95608,"In Service",False,"","",1,14
+"",40.711863,"Graham Ave & Grand St","Graham Ave & Grand St","","2015-12-11 11:51:56 AM",3081,20,23,"","",-73.944024,"In Service",False,"","",1,3
+"",40.71167351,"Hope St & Union Ave","Hope St & Union Ave","","2015-12-11 11:53:33 AM",3082,22,25,"","",-73.95141312,"In Service",False,"","",1,3
+"",40.71247661,"Bushwick Ave & Powers St","Bushwick Ave & Powers St","","2015-12-11 11:51:25 AM",3083,28,30,"","",-73.94100005,"In Service",False,"","",1,2
+"",40.71348658,"Devoe St & Leonard St","Devoe St & Leonard St","","2015-12-11 11:52:53 AM",3084,18,19,"","",-73.94792458,"In Service",False,"","",1,0
+"",40.71469,"Roebling St & N 4 St","Roebling St & N 4 St","","2015-12-11 11:54:08 AM",3085,22,25,"","",-73.95739,"In Service",False,"","",1,3
+"",40.715143,"Graham Ave & Conselyea St","Graham Ave & Conselyea St","","2015-12-11 11:52:40 AM",3086,7,25,"","",-73.944507,"In Service",False,"","",1,18
+"",40.71413311,"Metropolitan Ave & Meeker Ave","Metropolitan Ave & Meeker Ave","","2015-12-11 11:54:40 AM",3087,24,36,"","",-73.95234386,"In Service",False,"","",1,12
+"",40.7160751,"Union Ave & Jackson St","Union Ave & Jackson St","","2015-12-11 11:53:48 AM",3088,10,22,"","",-73.952029,"In Service",False,"","",1,10
+"",40.717318403856,"Leonard St & Meeker Ave","Leonard St & Meeker Ave","","2015-12-11 11:54:09 AM",3089,14,21,"","",-73.948202133179,"In Service",False,"","",1,7
+"",40.71774592,"N 8 St & Driggs Ave","N 8 St & Driggs Ave","","2015-12-11 11:54:08 AM",3090,3,31,"","",-73.95600096,"In Service",False,"","",1,28
+"",40.71764,"Frost St & Meeker St","Frost St & Meeker St","","2015-12-11 11:53:56 AM",3091,18,31,"","",-73.94882,"In Service",False,"","",1,13
+"",40.7190095,"Berry St & N 8 St","Berry St & N 8 St","","2015-12-11 11:51:30 AM",3092,18,27,"","",-73.95852515,"In Service",False,"","",1,9
+"",40.71745169,"N 6 St & Bedford Ave","N 6 St & Bedford Ave","","2015-12-11 11:51:38 AM",3093,8,28,"","",-73.95850939,"In Service",False,"","",1,20
+"",40.7169811,"Graham Ave & Withers St","Graham Ave & Withers St","","2015-12-11 11:51:23 AM",3094,17,18,"","",-73.94485918,"In Service",False,"","",1,1
+"",40.71929301,"Graham Ave & Herbert St","Graham Ave & Herbert St","","2015-12-11 11:52:29 AM",3095,16,23,"","",-73.94500379,"In Service",False,"","",1,7
+"",40.71924,"Union Ave & N 12 St","Union Ave & N 12 St","","2015-12-11 11:52:52 AM",3096,32,39,"","",-73.95242,"In Service",False,"","",1,6
+"",40.71921585,"N Henry St & Richardson St","N Henry St & Richardson St","","2015-12-11 11:52:44 AM",3097,19,19,"","",-73.9424469,"In Service",False,"","",1,0
+"",40.71928,"Leonard St & Bayard St","Leonard St & Bayard St","","2015-12-11 11:53:21 AM",3098,39,43,"","",-73.94861,"In Service",False,"","",1,4
+"",40.721522403393,"Leonard St & Manhattan Ave","Leonard St & Manhattan Ave","","2015-12-11 11:54:02 AM",3099,16,19,"","",-73.948982656002,"In Service",False,"","",1,3
+"",40.7204,"Lorimer St & Bayard St","Lorimer St & Bayard St","","1969-12-31 07:00:00 PM",3100,0,0,"","",-73.95016,"Not In Service",False,"","",3,0
+"",40.72079821,"N 12 St & Bedford Ave","N 12 St & Bedford Ave","","2015-12-11 11:52:12 AM",3101,24,27,"","",-73.95484712,"In Service",False,"","",1,2
+"",40.72179134,"Driggs Ave & Lorimer St","Driggs Ave & Lorimer St","","2015-12-11 11:52:52 AM",3102,27,27,"","",-73.9504154,"In Service",False,"","",1,0
+"",40.72153267,"N 11 St & Wythe Ave","N 11 St & Wythe Ave","","2015-12-11 11:54:21 AM",3103,13,27,"","",-73.95782357,"In Service",False,"","",1,14
+"",40.72057658,"Kent Ave & N 7 St","Kent Ave & N 7 St","","2015-12-11 11:51:07 AM",3104,16,47,"","",-73.96150225,"In Service",False,"","",1,31
+"",40.724055,"N 15 St & Wythe Ave","N 15 St & Wythe Ave","","2015-12-11 11:51:47 AM",3105,22,24,"","",-73.955736,"In Service",False,"","",1,2
+"",40.72325,"Driggs Ave & N Henry St","Driggs Ave & N Henry St","","2015-12-11 11:54:42 AM",3106,18,19,"","",-73.94308,"In Service",False,"","",1,1
+"",40.72311651,"Bedford Ave & Nassau Ave","Bedford Ave & Nassau Ave","","2015-12-11 11:54:15 AM",3107,36,39,"","",-73.95212324,"In Service",False,"","",1,2
+"",40.72557,"Nassau Ave & Russell St","Nassau Ave & Russell St","","2015-12-11 11:52:41 AM",3108,23,24,"","",-73.94434,"In Service",False,"","",1,1
+"",40.72606,"Banker St & Meserole Ave","Banker St & Meserole Ave","","2015-12-11 11:51:56 AM",3109,22,30,"","",-73.95621,"In Service",False,"","",1,8
+"",40.72708584,"Meserole Ave & Manhattan Ave","Meserole Ave & Manhattan Ave","","2015-12-11 11:53:23 AM",3110,15,27,"","",-73.95299117,"In Service",False,"","",1,12
+"",40.7258483,"Norman Ave & Leonard St","Norman Ave & Leonard St","","2015-12-11 11:52:39 AM",3111,25,25,"","",-73.95064893,"In Service",False,"","",1,0
+"",40.72906,"Milton St & Franklin St","Milton St & Franklin St","","2015-12-11 11:54:36 AM",3112,12,33,"","",-73.95779,"In Service",False,"","",1,21
+"",40.73026,"Greenpoint Ave & Manhattan Ave","Greenpoint Ave & Manhattan Ave","","2015-12-11 11:53:38 AM",3113,20,27,"","",-73.95394,"In Service",False,"","",1,6
+"",40.73165141,"India St & East River","India St & East River","","2015-12-11 11:53:43 AM",3114,4,23,"","",-73.96161892,"In Service",False,"","",1,19
+"",40.73232194,"India St & Manhattan Ave","India St & Manhattan Ave","","2015-12-11 11:52:04 AM",3115,28,34,"","",-73.9550858,"In Service",False,"","",1,5
+"",40.73266,"Huron St & Franklin St","Huron St & Franklin St","","2015-12-11 11:53:43 AM",3116,33,35,"","",-73.95826,"In Service",False,"","",1,1
+"",40.73564,"Franklin St & Dupont St","Franklin St & Dupont St","","2015-12-11 11:53:53 AM",3117,22,27,"","",-73.95866,"In Service",False,"","",1,5
+"",40.73555,"McGuinness Blvd & Eagle St","McGuinness Blvd & Eagle St","","2015-12-11 11:53:52 AM",3118,17,30,"","",-73.95284,"In Service",False,"","",1,12
+"",40.74232744,"Vernon Blvd & 50 Ave","Vernon Blvd & 50 Ave","","2015-12-11 11:54:42 AM",3119,14,45,"","",-73.95411749,"In Service",False,"","",1,29
+"",40.74161,"Center Blvd & Borden Ave","Center Blvd & Borden Ave","","2015-12-11 11:54:19 AM",3120,9,20,"","",-73.96044,"In Service",False,"","",1,11
+"",40.74524768,"Jackson Ave & 46 Rd","Jackson Ave & 46 Rd","","2015-12-11 11:51:50 AM",3121,4,27,"","",-73.94733276,"In Service",False,"","",1,22
+"",40.744363287067,"48 Ave & 5 St","48 Ave & 5 St","","2015-12-11 11:53:41 AM",3122,20,31,"","",-73.955873250961,"In Service",False,"","",1,11
+"",40.74469738,"31 St & Thomson Ave","31 St & Thomson Ave","","2015-12-11 11:53:05 AM",3123,19,27,"","",-73.93540375,"In Service",False,"","",1,8
+"",40.74731,"46 Ave & 5 St","46 Ave & 5 St","","2015-12-11 11:51:29 AM",3124,25,27,"","",-73.95451,"In Service",False,"","",1,2
+"",40.74708586,"45 Rd & 11 St","45 Rd & 11 St","","2015-12-11 11:52:38 AM",3125,3,23,"","",-73.94977234,"In Service",False,"","",1,20
+"",40.74718234,"44 Dr & Jackson Ave","44 Dr & Jackson Ave","","2015-12-11 11:52:17 AM",3126,13,34,"","",-73.9432635,"In Service",False,"","",1,21
+"",40.74966,"9 St & 44 Rd","9 St & 44 Rd","","2015-12-11 11:54:27 AM",3127,8,35,"","",-73.9521,"In Service",False,"","",1,27
+"",40.75052534,"21 St & 43 Ave","21 St & 43 Ave","","2015-12-11 11:51:33 AM",3128,19,23,"","",-73.94594845,"In Service",False,"","",1,4
+"",40.75110165,"Queens Plaza North & Crescent St","Queens Plaza North & Crescent St","","2015-12-11 11:51:40 AM",3129,20,31,"","",-73.94073717,"In Service",False,"","",1,7
+"",40.76120833,"Coming soon: E 63 St & York Ave ","Coming soon: E 63 St & York Ave ","","1969-12-31 07:00:00 PM",3131,0,0,"","",-73.95748565,"Not In Service",False,"","",3,0
+"",40.76350532,"E 59 St & Madison Ave","E 59 St & Madison Ave","","2015-12-11 11:53:42 AM",3132,6,35,"","",-73.97109243,"In Service",False,"","",1,29
+"",40.76312584,"3 Ave & E 62 St","3 Ave & E 62 St","","2015-12-11 11:54:07 AM",3134,48,51,"","",-73.96526895,"In Service",False,"","",1,2
+"",40.77112927,"E 75 St & 3 Ave","E 75 St & 3 Ave","","2015-12-11 11:52:59 AM",3135,41,41,"","",-73.95772297,"In Service",False,"","",1,0
+"",40.76650452,"5 Ave & E 63 St","5 Ave & E 63 St","","2015-12-11 11:53:45 AM",3136,43,47,"","",-73.97147595,"In Service",False,"","",1,4
+"",40.77282817,"5 Ave & E 73 St","5 Ave & E 73 St","","2015-12-11 11:54:06 AM",3137,25,31,"","",-73.96685276,"In Service",False,"","",1,0
+"",40.774405455003,"Coming soon: E 77 St & Park Ave ","Coming soon: E 77 St & Park Ave ","","1969-12-31 07:00:00 PM",3138,0,0,"","",-73.961752653122,"Not In Service",False,"","",3,0
+"",40.771182875407,"E 72 St & Park Ave","E 72 St & Park Ave","","2015-12-11 11:52:04 AM",3139,41,43,"","",-73.964094221592,"In Service",False,"","",1,1
+"",40.77140426,"1 Ave & E 78 St","1 Ave & E 78 St","","2015-12-11 11:54:20 AM",3140,0,55,"","",-73.9535166,"Not In Service",False,"","",3,55
+"",40.76500525,"1 Ave & E 68 St","1 Ave & E 68 St","","2015-12-11 11:54:40 AM",3141,46,59,"","",-73.95818491,"In Service",False,"","",1,8
+"",40.7612274,"1 Ave & E 62 St","1 Ave & E 62 St","","2015-12-11 11:53:47 AM",3142,44,59,"","",-73.96094022,"In Service",False,"","",1,14
+"",40.7768286344,"5 Ave & E 78 St","5 Ave & E 78 St","","2015-12-11 11:53:38 AM",3143,46,47,"","",-73.963887691498,"In Service",False,"","",1,0
+"",40.77677702,"E 81 St & Park Ave","E 81 St & Park Ave","","2015-12-11 11:52:19 AM",3144,45,46,"","",-73.9590097,"In Service",False,"","",1,0
+"",40.77862688,"E 84 St & Park Ave","E 84 St & Park Ave","","2015-12-11 11:52:09 AM",3145,54,59,"","",-73.95772073,"In Service",False,"","",1,4
+"",40.77573034,"E 81 St & 3 Ave","E 81 St & 3 Ave","","2015-12-11 11:54:08 AM",3146,47,47,"","",-73.9567526,"In Service",False,"","",1,0
+"",40.77801203,"E 85 St & 3 Ave","E 85 St & 3 Ave","","2015-12-11 11:54:36 AM",3147,20,23,"","",-73.95407149,"In Service",False,"","",1,2
+"",40.77565541,"E 84 St & 1 Ave","E 84 St & 1 Ave","","2015-12-11 11:53:26 AM",3148,30,31,"","",-73.95068615,"In Service",False,"","",1,1
+"",40.77536905,"E 85 St & York Ave","E 85 St & York Ave","","2015-12-11 11:54:30 AM",3150,52,55,"","",-73.94803392,"In Service",False,"","",1,1
+"",40.7728384,"E 81 St & York Ave","E 81 St & York Ave","","2015-12-11 11:53:44 AM",3151,41,43,"","",-73.94989233,"In Service",False,"","",1,1
+"",40.76873687,"Coming soon: 3 Ave & E 71 St","Coming soon: 3 Ave & E 71 St","","1969-12-31 07:00:00 PM",3152,0,0,"","",-73.96119945,"Not In Service",False,"","",3,0
+"",40.768175467422,"Coming soon: E 71 St & 2 Ave","Coming soon: E 71 St & 2 Ave","","1969-12-31 07:00:00 PM",3153,0,0,"","",-73.959102630615,"Not In Service",False,"","",3,0
+"",40.77314236,"E 77 St & 3 Ave","E 77 St & 3 Ave","","2015-12-11 11:53:07 AM",3154,31,31,"","",-73.95856158,"In Service",False,"","",1,0
+"",40.76440023,"Lexington Ave & E 63 St","Lexington Ave & E 63 St","","2015-12-11 11:53:30 AM",3155,15,18,"","",-73.96648977,"In Service",False,"","",1,2
+"",40.76663814,"E 72 St & York Ave","E 72 St & York Ave","","2015-12-11 11:54:28 AM",3156,25,39,"","",-73.95348296,"In Service",False,"","",1,13
+"",40.77518615,"East End Ave & E 86 St","East End Ave & E 86 St","","2015-12-11 11:54:10 AM",3157,44,47,"","",-73.94446054,"In Service",False,"","",1,3
+"",40.77163851,"W 63 St & Broadway","W 63 St & Broadway","","2015-12-11 11:54:37 AM",3158,31,31,"","",-73.98261428,"In Service",False,"","",1,0
+"",40.77492513,"W 67 St & Broadway","W 67 St & Broadway","","2015-12-11 11:53:57 AM",3159,29,31,"","",-73.98266566,"In Service",False,"","",1,2
+"",40.77896784,"Central Park West & W 76 St","Central Park West & W 76 St","","2015-12-11 11:51:48 AM",3160,38,39,"","",-73.97374737,"In Service",False,"","",1,1
+"",40.780183972424,"W 76 St & Columbus Ave","W 76 St & Columbus Ave","","2015-12-11 11:53:34 AM",3161,58,59,"","",-73.977285325527,"In Service",False,"","",1,0
+"",40.78339981,"W 78 St & Broadway","W 78 St & Broadway","","2015-12-11 11:53:55 AM",3162,39,39,"","",-73.98093133,"In Service",False,"","",1,0
+"",40.7734066,"Central Park West & W 68 St","Central Park West & W 68 St","","2015-12-11 11:53:35 AM",3163,43,43,"","",-73.97782542,"In Service",False,"","",1,0
+"",40.7770575,"Columbus Ave & W 72 St","Columbus Ave & W 72 St","","2015-12-11 11:53:35 AM",3164,65,67,"","",-73.97898475,"In Service",False,"","",1,0
+"",40.775793766837,"Central Park West & W 72 St","Central Park West & W 72 St","","2015-12-11 11:51:45 AM",3165,51,51,"","",-73.976205736399,"In Service",False,"","",1,0
+"",40.780577990103,"Riverside Dr & W 72 St","Riverside Dr & W 72 St","","2015-12-11 11:51:56 AM",3166,39,41,"","",-73.985624313354,"In Service",False,"","",1,1
+"",40.779668090073,"Amsterdam Ave & W 73 St","Amsterdam Ave & W 73 St","","2015-12-11 11:52:05 AM",3167,54,55,"","",-73.980930447578,"In Service",False,"","",1,1
+"",40.78472675,"Central Park West & W 85 St","Central Park West & W 85 St","","2015-12-11 11:54:42 AM",3168,30,31,"","",-73.96961715,"In Service",False,"","",1,1
+"",40.78720869,"Riverside Dr & W 82 St","Riverside Dr & W 82 St","","2015-12-11 11:54:14 AM",3169,59,59,"","",-73.98128127,"In Service",False,"","",1,0
+"",40.78499979,"W 84 St & Columbus Ave","W 84 St & Columbus Ave","","2015-12-11 11:53:43 AM",3170,33,35,"","",-73.97283406,"In Service",False,"","",1,0
+"",40.78524672,"Amsterdam Ave & W 82 St","Amsterdam Ave & W 82 St","","2015-12-11 11:53:03 AM",3171,38,39,"","",-73.97667321,"In Service",False,"","",1,0
+"",40.7785669,"W 74 St & Columbus Ave","W 74 St & Columbus Ave","","2015-12-11 11:51:20 AM",3172,26,27,"","",-73.97754961,"In Service",False,"","",1,0
+"",40.777507027548,"Riverside Blvd & W 67 St","Riverside Blvd & W 67 St","","2015-12-11 11:52:30 AM",3173,58,63,"","",-73.988885879517,"In Service",False,"","",1,3
+"",40.77748046,"W 70 St & Amsterdam Ave","W 70 St & Amsterdam Ave","","2015-12-11 11:52:10 AM",3175,31,31,"","",-73.98288594,"In Service",False,"","",1,0
+"",40.77452835,"W 64 St & West End Ave","W 64 St & West End Ave","","2015-12-11 11:51:18 AM",3176,43,43,"","",-73.98753759,"In Service",False,"","",1,0
+"",40.7867947,"W 84 St & Broadway","W 84 St & Broadway","","2015-12-11 11:54:26 AM",3177,61,63,"","",-73.977112,"In Service",False,"","",1,0
+"",40.78414472,"Riverside Dr & W 78 St","Riverside Dr & W 78 St","","2015-12-11 11:51:56 AM",3178,57,59,"","",-73.98362492,"In Service",False,"","",1,1
+"",40.698617,"Park Ave & Marcus Garvey Blvd","Park Ave & Marcus Garvey Blvd","","2015-12-11 11:54:15 AM",3179,14,23,"","",-73.941342,"In Service",False,"","",1,9
+"",40.69878,"Brooklyn Bridge Park - Pier 2","Brooklyn Bridge Park - Pier 2","","2015-12-11 11:53:42 AM",3180,27,31,"","",-73.99712,"In Service",False,"","",1,4
+"",40.7162469,"Exchange Place","Exchange Place","","2015-12-11 11:52:49 AM",3183,0,30,"","",-74.0334588,"In Service",False,"","",1,29
+"",40.7141454,"Paulus Hook","Paulus Hook","","2015-12-11 11:51:13 AM",3184,6,14,"","",-74.0335519,"In Service",False,"","",1,8
+"",40.7177325,"City Hall","City Hall","","2015-12-11 11:51:50 AM",3185,13,22,"","",-74.043845,"In Service",False,"","",1,8
+"",40.7192789,"Grove St PATH","Grove St PATH","","2015-12-11 11:51:41 AM",3186,3,22,"","",-74.0424515,"In Service",False,"","",1,17
+"",40.7211236,"Warren St","Warren St","","2015-12-11 11:51:49 AM",3187,13,22,"","",-74.03805095,"In Service",False,"","",1,9
+"",40.7101087,"NJCU","NJCU","","2015-12-11 11:54:22 AM",3188,15,18,"","",-74.0858489,"In Service",False,"","",1,2
+"",40.714402,"West Side Light Rail","West Side Light Rail","","2015-12-11 11:51:21 AM",3189,0,14,"","",-74.0887723,"In Service",False,"","",1,14
+"",40.7108044,"Garfield Ave Light Rail","Garfield Ave Light Rail","","2015-12-11 11:52:41 AM",3190,14,18,"","",-74.0714882,"In Service",False,"","",1,3
+"",40.7182113,"Union St","Union St","","2015-12-11 11:53:59 AM",3191,10,18,"","",-74.0836394,"In Service",False,"","",1,8
+"",40.7112423,"Liberty Light Rail","Liberty Light Rail","","2015-12-11 11:53:16 AM",3192,19,22,"","",-74.0557013,"In Service",False,"","",1,3
+"",40.7244188,"Lincoln Park","Lincoln Park","","2015-12-11 11:51:09 AM",3193,12,18,"","",-74.0780383,"In Service",False,"","",1,5
+"",40.7256033,"McGinley Square","McGinley Square","","2015-12-11 11:54:10 AM",3194,14,14,"","",-74.06763,"In Service",False,"","",1,0
+"",40.7309459,"Sip Ave","Sip Ave","","2015-12-11 11:52:32 AM",3195,13,34,"","",-74.0638906,"In Service",False,"","",1,21
+"",40.7443187,"Riverview Park","Riverview Park","","2015-12-11 11:53:44 AM",3196,17,18,"","",-74.0439909,"In Service",False,"","",1,1
+"",40.752559,"North St","North St","","2015-12-11 11:50:50 AM",3197,14,18,"","",-74.044725,"In Service",False,"","",1,4
+"",40.7485362,"Heights Elevator","Heights Elevator","","2015-12-11 11:51:22 AM",3198,14,18,"","",-74.0403131,"In Service",False,"","",1,3
+"",40.7287448,"Newport Pkwy","Newport Pkwy","","2015-12-11 11:52:23 AM",3199,12,14,"","",-74.0321082,"In Service",False,"","",1,2
+"",40.7111305,"MLK Light Rail","MLK Light Rail","","2015-12-11 11:52:55 AM",3200,17,18,"","",-74.0788855,"In Service",False,"","",1,1
+"",40.737711,"Dey St","Dey St","","2015-12-11 11:53:41 AM",3201,10,18,"","",-74.066921,"In Service",False,"","",1,7
+"",40.7272235,"Newport PATH","Newport PATH","","2015-12-11 11:51:54 AM",3202,4,18,"","",-74.0337589,"In Service",False,"","",1,14
+"",40.727595966,"Hamilton Park","Hamilton Park","","2015-12-11 11:54:04 AM",3203,22,25,"","",-74.044247311,"In Service",False,"","",1,0
+"",40.7165271,"JC Medical Center","JC Medical Center","","2015-12-11 11:52:54 AM",3205,15,22,"","",-74.049425,"In Service",False,"","",1,7
+"",40.7311689,"Hilltop","Hilltop","","2015-12-11 11:51:16 AM",3206,22,26,"","",-74.0575736,"In Service",False,"","",1,4
+"",40.7376037,"Oakland Ave","Oakland Ave","","2015-12-11 11:54:10 AM",3207,13,14,"","",-74.0524783,"In Service",False,"","",1,0
+"",40.7241765,"Brunswick St","Brunswick St","","2015-12-11 11:53:29 AM",3209,14,18,"","",-74.0506564,"In Service",False,"","",1,4
+"",40.742677141,"Pershing Field","Pershing Field","","2015-12-11 11:50:53 AM",3210,10,18,"","",-74.051788633,"In Service",False,"","",1,8
+"",40.72152515,"Newark Ave","Newark Ave","","2015-12-11 11:52:16 AM",3211,15,22,"","",-74.046304543,"In Service",False,"","",1,7
+"",40.734785818,"Christ Hospital","Christ Hospital","","2015-12-11 11:53:43 AM",3212,18,22,"","",-74.050443636,"In Service",False,"","",1,4
+"",40.71848892,"Van Vorst Park","Van Vorst Park","","2015-12-11 11:53:39 AM",3213,21,22,"","",-74.047726625,"In Service",False,"","",1,1
+"",40.7127742,"Essex Light Rail","Essex Light Rail","","2015-12-11 11:54:22 AM",3214,10,22,"","",-74.0364857,"In Service",False,"","",1,12
+"",40.7467299,"Central Ave","Central Ave","","2015-12-11 11:52:11 AM",3215,13,18,"","",-74.0492509,"In Service",False,"","",1,5
+"",40.6970299,"Columbia Park","Columbia Park","","2015-12-11 11:53:59 AM",3216,9,18,"","",-74.0969366,"In Service",False,"","",1,8
+"",40.698650544,"Bayside Park","Bayside Park","","2015-12-11 11:53:42 AM",3217,13,18,"","",-74.082079678,"In Service",False,"","",1,4
+"",40.73496102001,"5 Corners Library","5 Corners Library","","2015-12-11 11:52:40 AM",3220,16,18,"","",-74.059503078461,"In Service",False,"","",1,1
+"",40.743,"47 Ave & 31 St","47 Ave & 31 St","","2015-12-11 11:54:03 AM",3221,4,27,"","",-73.93561,"In Service",False,"","",1,22
+"",40.685159599892,"Hanson Pl & St Felix St","Hanson Pl & St Felix St","","2015-12-11 11:54:42 AM",3222,35,39,"","",-73.97711366415,"In Service",False,"","",1,1
+"",40.758996559605,"E 55 St & 3 Ave","E 55 St & 3 Ave","","2015-12-11 11:54:33 AM",3223,0,55,"","",-73.968653976917,"In Service",False,"","",1,55
+"",40.739973541034,"W 13 St & Hudson St","W 13 St & Hudson St","","2015-12-11 11:51:15 AM",3224,1,39,"","",-74.005138725042,"In Service",False,"","",1,35
+"",40.7236589,"Baldwin at Montgomery","Baldwin at Montgomery","","2015-12-11 11:52:28 AM",3225,14,14,"","",-74.0641943,"In Service",False,"","",1,0
+"",40.78275,"W 82 St & Central Park West","W 82 St & Central Park West","","2015-12-11 11:52:54 AM",3226,33,33,"","",-73.97137,"In Service",False,"","",1,0
+"",40.680617684555,"Marcy Ave & MacDonough St","Marcy Ave & MacDonough St","","2015-12-11 11:53:22 AM",3229,18,19,"","",-73.946249485016,"In Service",False,"","",1,1
+"",40.751283596962,"Penn Station Valet","Penn Station Valet","","2015-12-11 11:54:34 AM",3230,7,7,"","",-73.996924459934,"Not In Service",False,"","",3,0
+"",40.767800801481,"E 67 St & Park Ave","E 67 St & Park Ave","","2015-12-11 11:53:19 AM",3231,52,59,"","",-73.965920805931,"In Service",False,"","",1,5
+"",40.689621887903,"Bond St & Fulton St","Bond St & Fulton St","","2015-12-11 11:53:58 AM",3232,0,31,"","",-73.983042687178,"In Service",False,"","",1,31
+"",40.757245679117,"E 48 St & 5 Ave","E 48 St & 5 Ave","","2015-12-11 11:54:41 AM",3233,5,39,"","",-73.978059142828,"In Service",False,"","",1,34
+"",40.751593684511,"E 40 St & Madison Ave","E 40 St & Madison Ave","","2015-12-11 11:52:14 AM",3234,8,55,"","",-73.980431556702,"In Service",False,"","",1,45
+"",40.752165280622,"E 41 St & Madison Ave","E 41 St & Madison Ave","","2015-12-11 11:51:38 AM",3235,14,31,"","",-73.979921936989,"In Service",False,"","",1,16
+"",40.758984813996,"PABT Valet","PABT Valet","","2015-12-11 11:53:22 AM",3236,9,9,"","",-73.993799686432,"Not In Service",False,"","",3,0
+"",40.753833434376,"21 St & 41 Ave","21 St & 41 Ave","","2015-12-11 11:51:09 AM",3237,19,25,"","",-73.942676782608,"In Service",False,"","",1,6
+"",40.773913902381,"E 80 St & 2 Ave","E 80 St & 2 Ave","","2015-12-11 11:54:44 AM",3238,37,37,"","",-73.954395353794,"In Service",False,"","",1,0
